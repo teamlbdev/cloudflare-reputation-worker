@@ -958,21 +958,9 @@ Possible future improvements include:
 ---
 
 # License
-
-Add the license appropriate for your project.
-
-For example:
-
 ```text
 MIT License
 ```
-
-or:
-
-```text
-Proprietary / Internal Use Only
-```
-
 ---
 
 # Disclaimer
